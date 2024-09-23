@@ -7,6 +7,7 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/dhruv343/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/dhruv343/DSA-Problems/tree/master/0525-contiguous-array) |
 ## Design
 |  |
@@ -16,9 +17,15 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/dhruv343/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/dhruv343/DSA-Problems/tree/master/0525-contiguous-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/dhruv343/DSA-Problems/tree/master/0525-contiguous-array) |
+## Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
