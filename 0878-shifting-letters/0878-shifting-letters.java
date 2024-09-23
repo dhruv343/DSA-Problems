@@ -7,7 +7,7 @@ class Solution {
         for(int i=n-2;i>=0;i--){
             shifts[i]=(shifts[i]+shifts[i+1])%26;
         }
-        shifts[n-1]=shifts[n-1]%26;
+        
         StringBuilder str=new StringBuilder(s);
 
         for(int i=0;i<s.length();i++){
