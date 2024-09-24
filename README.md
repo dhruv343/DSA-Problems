@@ -6,6 +6,7 @@ A collection of LeetCode questions i did!
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruv343/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0303-range-sum-query-immutable](https://github.com/dhruv343/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/dhruv343/DSA-Problems/tree/master/0525-contiguous-array) |
@@ -34,4 +35,12 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0878-shifting-letters](https://github.com/dhruv343/DSA-Problems/tree/master/0878-shifting-letters) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruv343/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruv343/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
