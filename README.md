@@ -36,6 +36,7 @@ A collection of LeetCode questions i did!
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/dhruv343/DSA-Problems/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/dhruv343/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0878-shifting-letters](https://github.com/dhruv343/DSA-Problems/tree/master/0878-shifting-letters) |
 ## Two Pointers
@@ -57,4 +58,8 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhruv343/DSA-Problems/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/dhruv343/DSA-Problems/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
