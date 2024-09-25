@@ -27,6 +27,7 @@ A collection of LeetCode questions i did!
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/dhruv343/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0523-continuous-subarray-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/dhruv343/DSA-Problems/tree/master/0525-contiguous-array) |
 ## Math
@@ -39,6 +40,7 @@ A collection of LeetCode questions i did!
 | [0005-longest-palindromic-substring](https://github.com/dhruv343/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0071-simplify-path](https://github.com/dhruv343/DSA-Problems/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/dhruv343/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/dhruv343/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/dhruv343/DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [0878-shifting-letters](https://github.com/dhruv343/DSA-Problems/tree/master/0878-shifting-letters) |
 ## Two Pointers
@@ -58,6 +60,7 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/dhruv343/DSA-Problems/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/dhruv343/DSA-Problems/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
 | ------- |
