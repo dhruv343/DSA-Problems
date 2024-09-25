@@ -36,12 +36,14 @@ A collection of LeetCode questions i did!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruv343/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0071-simplify-path](https://github.com/dhruv343/DSA-Problems/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/dhruv343/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0878-shifting-letters](https://github.com/dhruv343/DSA-Problems/tree/master/0878-shifting-letters) |
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruv343/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/dhruv343/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/dhruv343/DSA-Problems/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/dhruv343/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -62,4 +64,8 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/dhruv343/DSA-Problems/tree/master/0071-simplify-path) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruv343/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
