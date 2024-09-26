@@ -12,6 +12,7 @@ A collection of LeetCode questions i did!
 | [0049-group-anagrams](https://github.com/dhruv343/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/dhruv343/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruv343/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/dhruv343/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/dhruv343/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/dhruv343/DSA-Problems/tree/master/0525-contiguous-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions i did!
 | [0088-merge-sorted-array](https://github.com/dhruv343/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/dhruv343/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruv343/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/dhruv343/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/dhruv343/DSA-Problems/tree/master/0647-palindromic-substrings) |
 ## Binary Search
 |  |
