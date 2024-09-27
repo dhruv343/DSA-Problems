@@ -39,6 +39,7 @@ A collection of LeetCode questions i did!
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/dhruv343/DSA-Problems/tree/master/0007-reverse-integer) |
 | [0523-continuous-subarray-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 ## String
 |  |
