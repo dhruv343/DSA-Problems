@@ -5,10 +5,7 @@ class Solution {
     if(ind==nums.length-1){
         return true;
     }
-    else if(ind>nums.length-1){
-        return false;
-    }
-    else if(nums[ind]==0){
+    else if(ind>nums.length-1 || nums[ind]==0){
         return false;
     }
 
