@@ -30,8 +30,8 @@ class Solution {
         Pair ele=f(nums,ind+i,dp);
         if(ele.takesAtLast){
             min=Integer.min(min,ele.minJumps);
+            takesAtLast=true;
         }
-        takesAtLast=takesAtLast || ele.takesAtLast;
     }
     
     return dp[ind]= new Pair(takesAtLast,min+1);
