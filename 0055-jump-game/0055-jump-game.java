@@ -10,28 +10,18 @@ class Solution {
     }
 
     if(dp[ind]!=-1){
-        if(dp[ind]==1){
-            return true;
-        }
-        else{
-            return false;
-        }
+        return dp[ind]==1;
     }
-
-    boolean cal=false;
 
     for(int i=1;i<=nums[ind];i++){
-        cal=cal || f(nums,ind+i,dp);
-    }
-    
-    if(cal==true){
+        if(f(nums,ind+i,dp)){
         dp[ind]=1;
         return true;
+        }
     }
-    else{
-        dp[ind]=0;
-        return false;
-    }
+    
+    dp[ind]=0;
+    return false;
 
     }
 
