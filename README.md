@@ -11,6 +11,7 @@ A collection of LeetCode questions i did!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruv343/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dhruv343/DSA-Problems/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/dhruv343/DSA-Problems/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/dhruv343/DSA-Problems/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/dhruv343/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruv343/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/dhruv343/DSA-Problems/tree/master/0283-move-zeroes) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhruv343/DSA-Problems/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/dhruv343/DSA-Problems/tree/master/0055-jump-game) |
 ## Stack
 |  |
 | ------- |
@@ -87,5 +89,6 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhruv343/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/dhruv343/DSA-Problems/tree/master/0055-jump-game) |
 | [0647-palindromic-substrings](https://github.com/dhruv343/DSA-Problems/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
