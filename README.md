@@ -25,6 +25,7 @@ A collection of LeetCode questions i did!
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/dhruv343/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/dhruv343/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dhruv343/DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Prefix Sum
@@ -93,6 +94,7 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/dhruv343/DSA-Problems/tree/master/0071-simplify-path) |
+| [0225-implement-stack-using-queues](https://github.com/dhruv343/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,4 +106,8 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/dhruv343/DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/dhruv343/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
