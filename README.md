@@ -19,6 +19,7 @@ A collection of LeetCode questions i did!
 | [0283-move-zeroes](https://github.com/dhruv343/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/dhruv343/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dhruv343/DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0496-next-greater-element-i](https://github.com/dhruv343/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/dhruv343/DSA-Problems/tree/master/0525-contiguous-array) |
 | [0878-shifting-letters](https://github.com/dhruv343/DSA-Problems/tree/master/0878-shifting-letters) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions i did!
 | [0049-group-anagrams](https://github.com/dhruv343/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/dhruv343/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dhruv343/DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0496-next-greater-element-i](https://github.com/dhruv343/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/dhruv343/DSA-Problems/tree/master/0525-contiguous-array) |
 ## Math
@@ -99,6 +101,7 @@ A collection of LeetCode questions i did!
 | [0071-simplify-path](https://github.com/dhruv343/DSA-Problems/tree/master/0071-simplify-path) |
 | [0225-implement-stack-using-queues](https://github.com/dhruv343/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dhruv343/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/dhruv343/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/dhruv343/DSA-Problems/tree/master/0874-backspace-string-compare) |
 ## Dynamic Programming
 |  |
@@ -120,4 +123,8 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/dhruv343/DSA-Problems/tree/master/0874-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/dhruv343/DSA-Problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
