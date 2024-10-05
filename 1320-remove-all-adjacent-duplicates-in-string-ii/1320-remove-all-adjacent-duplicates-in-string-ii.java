@@ -16,7 +16,7 @@ class Solution {
         for(int i=0;i<s.length();i++){
 
             int duplicates=0;
-            while(!stack.isEmpty() && stack.peek().c==s.charAt(i)){
+            if(!stack.isEmpty() && stack.peek().c==s.charAt(i)){
             duplicates=stack.peek().count;
             stack.pop();
             }
