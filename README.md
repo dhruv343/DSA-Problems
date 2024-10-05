@@ -25,6 +25,7 @@ A collection of LeetCode questions i did!
 | [0525-contiguous-array](https://github.com/dhruv343/DSA-Problems/tree/master/0525-contiguous-array) |
 | [0739-daily-temperatures](https://github.com/dhruv343/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0878-shifting-letters](https://github.com/dhruv343/DSA-Problems/tree/master/0878-shifting-letters) |
+| [0943-sum-of-subarray-minimums](https://github.com/dhruv343/DSA-Problems/tree/master/0943-sum-of-subarray-minimums) |
 ## Design
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions i did!
 | [0739-daily-temperatures](https://github.com/dhruv343/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/dhruv343/DSA-Problems/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/dhruv343/DSA-Problems/tree/master/0937-online-stock-span) |
+| [0943-sum-of-subarray-minimums](https://github.com/dhruv343/DSA-Problems/tree/master/0943-sum-of-subarray-minimums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions i did!
 | [0045-jump-game-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dhruv343/DSA-Problems/tree/master/0055-jump-game) |
 | [0647-palindromic-substrings](https://github.com/dhruv343/DSA-Problems/tree/master/0647-palindromic-substrings) |
+| [0943-sum-of-subarray-minimums](https://github.com/dhruv343/DSA-Problems/tree/master/0943-sum-of-subarray-minimums) |
 ## Randomized
 |  |
 | ------- |
@@ -136,6 +139,7 @@ A collection of LeetCode questions i did!
 | [0503-next-greater-element-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/dhruv343/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/dhruv343/DSA-Problems/tree/master/0937-online-stock-span) |
+| [0943-sum-of-subarray-minimums](https://github.com/dhruv343/DSA-Problems/tree/master/0943-sum-of-subarray-minimums) |
 ## Data Stream
 |  |
 | ------- |
