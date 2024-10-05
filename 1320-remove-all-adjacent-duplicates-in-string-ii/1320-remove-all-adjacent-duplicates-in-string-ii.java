@@ -15,19 +15,22 @@ class Solution {
 
         for(int i=0;i<s.length();i++){
 
-            int duplicates=0;
+            
+
             if(!stack.isEmpty() && stack.peek().c==s.charAt(i)){
-            duplicates=stack.pop().count;
+            stack.peek().count++;
+            }else{
+                stack.push(new Pair(s.charAt(i),1));
             }
 
-            if(duplicates+1<k){
-            stack.push(new Pair(s.charAt(i),duplicates+1));
+            if(stack.peek().count==k){
+                stack.pop();
             }
             
         }
 
         while(!stack.isEmpty()){
-            
+
             Pair p=stack.pop();
             char c=p.c;
             int count=p.count;
