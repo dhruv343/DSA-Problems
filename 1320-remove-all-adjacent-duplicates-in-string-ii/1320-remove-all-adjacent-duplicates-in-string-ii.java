@@ -17,8 +17,7 @@ class Solution {
 
             int duplicates=0;
             if(!stack.isEmpty() && stack.peek().c==s.charAt(i)){
-            duplicates=stack.peek().count;
-            stack.pop();
+            duplicates=stack.pop().count;
             }
 
             if(duplicates+1<k){
@@ -28,6 +27,7 @@ class Solution {
         }
 
         while(!stack.isEmpty()){
+            
             Pair p=stack.pop();
             char c=p.c;
             int count=p.count;
