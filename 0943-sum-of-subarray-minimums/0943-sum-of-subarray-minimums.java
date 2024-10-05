@@ -33,7 +33,7 @@ class Solution {
             long left=i-psl[i];
             long right=nsl[i]-i;
             
-            long contribution=((left*right)%mod*arr[i])%mod;
+            long contribution=(left*right)*arr[i];
             
             answer = (answer + contribution) % mod;
 
