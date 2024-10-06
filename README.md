@@ -63,6 +63,7 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhruv343/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/dhruv343/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/dhruv343/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/dhruv343/DSA-Problems/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/dhruv343/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions i did!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dhruv343/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/dhruv343/DSA-Problems/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhruv343/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/dhruv343/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
