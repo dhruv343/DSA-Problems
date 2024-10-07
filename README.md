@@ -27,6 +27,7 @@ A collection of LeetCode questions i did!
 | [0739-daily-temperatures](https://github.com/dhruv343/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0878-shifting-letters](https://github.com/dhruv343/DSA-Problems/tree/master/0878-shifting-letters) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruv343/DSA-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [1046-max-consecutive-ones-iii](https://github.com/dhruv343/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Design
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions i did!
 | [0523-continuous-subarray-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/dhruv343/DSA-Problems/tree/master/0525-contiguous-array) |
 | [0878-shifting-letters](https://github.com/dhruv343/DSA-Problems/tree/master/0878-shifting-letters) |
+| [1046-max-consecutive-ones-iii](https://github.com/dhruv343/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruv343/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1046-max-consecutive-ones-iii](https://github.com/dhruv343/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -155,4 +158,8 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/dhruv343/DSA-Problems/tree/master/0937-online-stock-span) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/dhruv343/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
