@@ -168,18 +168,21 @@ A collection of LeetCode questions i did!
 | [0226-invert-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0975-range-sum-of-bst](https://github.com/dhruv343/DSA-Problems/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0975-range-sum-of-bst](https://github.com/dhruv343/DSA-Problems/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0975-range-sum-of-bst](https://github.com/dhruv343/DSA-Problems/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -192,4 +195,8 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/dhruv343/DSA-Problems/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
