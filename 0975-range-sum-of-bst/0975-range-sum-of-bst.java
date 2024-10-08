@@ -20,12 +20,18 @@ class Solution {
             return 0;
         }
 
-        int val=0;
 
         if(root.val>=low && root.val<=high){
-         val=root.val;
+            return root.val+rangeSumBST(root.left,low,high)+rangeSumBST(root.right,low,high);
         }
-
-        return val+rangeSumBST(root.left,low,high)+rangeSumBST(root.right,low,high);
+        else if(root.val>low && root.val>high){
+            return rangeSumBST(root.left,low,high);
+        }
+        else if(root.val<low && root.val<high){
+            return rangeSumBST(root.right,low,high);
+        }
+        
+        return 0;
+        
     }
 }
