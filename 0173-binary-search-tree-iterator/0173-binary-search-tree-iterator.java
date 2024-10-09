@@ -14,39 +14,32 @@
  * }
  */
 class BSTIterator {
-    
-    LinkedList<Integer> list=new LinkedList<>();
-    int pointer;
 
-    public void inOrder(TreeNode root ,LinkedList<Integer> list){
-
-    if(root==null){
-        return;
-    }
-    inOrder(root.left,list);
-    list.add(root.val);
-    inOrder(root.right,list);
-
-    }
+    Stack<TreeNode> stack;
 
     public BSTIterator(TreeNode root) {
-        inOrder(root,list);
-        pointer=-1;
+        stack=new Stack<>();
+        updateStack(root);
     }
     
     public int next() {
-        pointer++;
-        return list.get(pointer);
+        TreeNode node=stack.pop();
+        updateStack(node.right);
+        return node.val;
     }
     
     public boolean hasNext() {
-        int check=pointer+1;
-        if(check<list.size()){
+        if(!stack.isEmpty()){
             return true;
         }
-        else{
-            return false;
-        }
+        return false;
+    }
+
+    public void updateStack(TreeNode node){
+    while(node!=null){
+        stack.push(node);
+        node=node.left;
+    }
     }
 }
 
