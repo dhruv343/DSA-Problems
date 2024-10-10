@@ -29,6 +29,7 @@ A collection of LeetCode questions i did!
 | [0878-shifting-letters](https://github.com/dhruv343/DSA-Problems/tree/master/0878-shifting-letters) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruv343/DSA-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [1046-max-consecutive-ones-iii](https://github.com/dhruv343/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1073-number-of-enclaves](https://github.com/dhruv343/DSA-Problems/tree/master/1073-number-of-enclaves) |
 ## Design
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions i did!
 | [0543-diameter-of-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/dhruv343/DSA-Problems/tree/master/0975-range-sum-of-bst) |
+| [1073-number-of-enclaves](https://github.com/dhruv343/DSA-Problems/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions i did!
 | [0102-binary-tree-level-order-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0226-invert-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/dhruv343/DSA-Problems/tree/master/1073-number-of-enclaves) |
 ## String Matching
 |  |
 | ------- |
@@ -222,4 +225,12 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/dhruv343/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
+## Union Find
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/dhruv343/DSA-Problems/tree/master/1073-number-of-enclaves) |
+## Matrix
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/dhruv343/DSA-Problems/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
