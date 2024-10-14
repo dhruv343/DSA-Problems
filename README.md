@@ -179,6 +179,7 @@ A collection of LeetCode questions i did!
 | [0173-binary-search-tree-iterator](https://github.com/dhruv343/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/dhruv343/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/dhruv343/DSA-Problems/tree/master/0975-range-sum-of-bst) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions i did!
 | [0110-balanced-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/dhruv343/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0744-network-delay-time](https://github.com/dhruv343/DSA-Problems/tree/master/0744-network-delay-time) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions i did!
 | [0173-binary-search-tree-iterator](https://github.com/dhruv343/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/dhruv343/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/dhruv343/DSA-Problems/tree/master/0975-range-sum-of-bst) |
