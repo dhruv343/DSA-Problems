@@ -119,6 +119,7 @@ A collection of LeetCode questions i did!
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhruv343/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/dhruv343/DSA-Problems/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhruv343/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/dhruv343/DSA-Problems/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/dhruv343/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions i did!
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions i did!
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/dhruv343/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions i did!
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
