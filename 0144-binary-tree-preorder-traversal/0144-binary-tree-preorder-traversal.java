@@ -16,39 +16,28 @@
 class Solution {
     public List<Integer> preorderTraversal(TreeNode root) {
 
-        //morris traversal
-        TreeNode curr=root;
-        ArrayList<Integer> inOrder=new ArrayList<>();
+        List<Integer> list=new ArrayList<>();
+        Stack<TreeNode> stack=new Stack<>();
+        TreeNode node=root;
 
-        while(curr!=null){
+        while(true){
+          if(node!=null){
+            list.add(node.val);
+            stack.push(node);
+            node=node.left;
+          }
 
-            if(curr.left==null){
-                inOrder.add(curr.val);
-                curr=curr.right;
+          else{
+            if(stack.isEmpty()){
+                break;
             }
 
-            else{
+            TreeNode noDe=stack.pop();
 
-             
-             TreeNode prev=curr.left;
-             
-             while(prev.right!=null && prev.right!=curr){
-                prev=prev.right;
-             }
-
-             if(prev.right==null){
-                prev.right=curr;
-                inOrder.add(curr.val);
-                curr=curr.left;
-             }
-             else{
-                prev.right=null;
-                curr=curr.right;
-             }
-
-            }
+            node=noDe.right;
+          }
         }
 
-        return inOrder;
+        return list;
     }
 }
