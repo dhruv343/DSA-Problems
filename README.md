@@ -121,6 +121,7 @@ A collection of LeetCode questions i did!
 | [0071-simplify-path](https://github.com/dhruv343/DSA-Problems/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhruv343/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/dhruv343/DSA-Problems/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/dhruv343/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions i did!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/dhruv343/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/dhruv343/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0226-invert-binary-tree) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions i did!
 | [0101-symmetric-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/dhruv343/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions i did!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/dhruv343/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/dhruv343/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0226-invert-binary-tree) |
