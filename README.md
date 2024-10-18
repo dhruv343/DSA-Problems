@@ -14,6 +14,7 @@ A collection of LeetCode questions i did!
 | [0049-group-anagrams](https://github.com/dhruv343/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/dhruv343/DSA-Problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/dhruv343/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/dhruv343/DSA-Problems/tree/master/0134-gas-station) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions i did!
 | [0055-jump-game](https://github.com/dhruv343/DSA-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/dhruv343/DSA-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0064-minimum-path-sum) |
 | [0647-palindromic-substrings](https://github.com/dhruv343/DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruv343/DSA-Problems/tree/master/0943-sum-of-subarray-minimums) |
 ## Randomized
@@ -271,6 +273,7 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0064-minimum-path-sum) |
 | [1073-number-of-enclaves](https://github.com/dhruv343/DSA-Problems/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
