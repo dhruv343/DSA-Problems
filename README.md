@@ -57,6 +57,7 @@ A collection of LeetCode questions i did!
 | [0049-group-anagrams](https://github.com/dhruv343/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/dhruv343/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dhruv343/DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0424-longest-repeating-character-replacement](https://github.com/dhruv343/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/dhruv343/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/dhruv343/DSA-Problems/tree/master/0525-contiguous-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions i did!
 | [0151-reverse-words-in-a-string](https://github.com/dhruv343/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/dhruv343/DSA-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/dhruv343/DSA-Problems/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/dhruv343/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/dhruv343/DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [0874-backspace-string-compare](https://github.com/dhruv343/DSA-Problems/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/dhruv343/DSA-Problems/tree/master/0878-shifting-letters) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions i did!
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/dhruv343/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/dhruv343/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Tree
 |  |
