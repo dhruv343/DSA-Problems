@@ -34,6 +34,7 @@ A collection of LeetCode questions i did!
 | [0966-binary-subarrays-with-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/dhruv343/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/dhruv343/DSA-Problems/tree/master/1073-number-of-enclaves) |
+| [1370-count-number-of-nice-subarrays](https://github.com/dhruv343/DSA-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 ## Design
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions i did!
 | [0878-shifting-letters](https://github.com/dhruv343/DSA-Problems/tree/master/0878-shifting-letters) |
 | [0966-binary-subarrays-with-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/dhruv343/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/dhruv343/DSA-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions i did!
 | [0525-contiguous-array](https://github.com/dhruv343/DSA-Problems/tree/master/0525-contiguous-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1370-count-number-of-nice-subarrays](https://github.com/dhruv343/DSA-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -74,6 +77,7 @@ A collection of LeetCode questions i did!
 | [0168-excel-sheet-column-title](https://github.com/dhruv343/DSA-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dhruv343/DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0523-continuous-subarray-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/dhruv343/DSA-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -186,6 +190,7 @@ A collection of LeetCode questions i did!
 | [0424-longest-repeating-character-replacement](https://github.com/dhruv343/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/dhruv343/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/dhruv343/DSA-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 ## Tree
 |  |
 | ------- |
