@@ -7,7 +7,7 @@ class Solution {
         int count=0;
         int sum=0;
         int n=nums.length;
-
+        if(k<0) return 0;
         while(r<n){
             sum+=(nums[r]%2);
             while(sum>k){
