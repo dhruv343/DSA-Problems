@@ -96,6 +96,7 @@ A collection of LeetCode questions i did!
 | [0647-palindromic-substrings](https://github.com/dhruv343/DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [0874-backspace-string-compare](https://github.com/dhruv343/DSA-Problems/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/dhruv343/DSA-Problems/tree/master/0878-shifting-letters) |
+| [1250-longest-common-subsequence](https://github.com/dhruv343/DSA-Problems/tree/master/1250-longest-common-subsequence) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/dhruv343/DSA-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dhruv343/DSA-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
@@ -165,6 +166,7 @@ A collection of LeetCode questions i did!
 | [0416-partition-equal-subset-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/dhruv343/DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruv343/DSA-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [1250-longest-common-subsequence](https://github.com/dhruv343/DSA-Problems/tree/master/1250-longest-common-subsequence) |
 ## Randomized
 |  |
 | ------- |
