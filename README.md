@@ -61,6 +61,7 @@ A collection of LeetCode questions i did!
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dhruv343/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/dhruv343/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/dhruv343/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dhruv343/DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions i did!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dhruv343/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/dhruv343/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/dhruv343/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/dhruv343/DSA-Problems/tree/master/0049-group-anagrams) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions i did!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dhruv343/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhruv343/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/dhruv343/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
