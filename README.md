@@ -23,6 +23,7 @@ A collection of LeetCode questions i did!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruv343/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/dhruv343/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/dhruv343/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/dhruv343/DSA-Problems/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dhruv343/DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/dhruv343/DSA-Problems/tree/master/0496-next-greater-element-i) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions i did!
 | [0062-unique-paths](https://github.com/dhruv343/DSA-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0064-minimum-path-sum) |
+| [0322-coin-change](https://github.com/dhruv343/DSA-Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/dhruv343/DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/dhruv343/DSA-Problems/tree/master/0647-palindromic-substrings) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions i did!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/dhruv343/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/dhruv343/DSA-Problems/tree/master/0322-coin-change) |
 | [0744-network-delay-time](https://github.com/dhruv343/DSA-Problems/tree/master/0744-network-delay-time) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/dhruv343/DSA-Problems/tree/master/1073-number-of-enclaves) |
