@@ -11,7 +11,7 @@ class Solution {
         if(dp[index][amount]!=-1) return dp[index][amount];
         
         //not take
-        int notTake=0+function(index-1,amount,coins,dp);
+        int notTake=function(index-1,amount,coins,dp);
         
         //TAKE
         int take=0;
@@ -29,18 +29,12 @@ class Solution {
         int n=coins.length;
         int[][] dp=new int[n][amount+1];
         
+        
         for(int[] arr:dp){
             Arrays.fill(arr,-1);
         }
 
-        int ans=function(n-1,amount,coins,dp);
+        return function(n-1,amount,coins,dp);
 
-        // if(ans>=1e9){
-        //     return -1;
-        // }
-        // else 
-        return ans;
-
-        
     }
 }
