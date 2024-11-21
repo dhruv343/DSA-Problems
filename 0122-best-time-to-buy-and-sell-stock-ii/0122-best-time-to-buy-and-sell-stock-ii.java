@@ -22,11 +22,14 @@ class Solution {
 
     public int maxProfit(int[] prices) {
 
-        int[][] dp = new int[prices.length + 1][2];
+        // int[][] dp = new int[prices.length + 1][2];
+
+        int[] ahead=new int[2];
+        int[] curr=new int[2];
 
         int n = prices.length;
 
-        dp[n][0] = dp[n][1] = 0;
+        ahead[0]=ahead[1] = 0;
 
         for (int index = n - 1; index >= 0; index--) {
             for (int canBuy = 0; canBuy <= 1; canBuy++) {
@@ -34,19 +37,20 @@ class Solution {
                 int profit;
 
                 if (canBuy == 1) {
-                    profit = Math.max(-prices[index] + dp[index+1][0],
-                            dp[index+1][1]);
+                    profit = Math.max(-prices[index] + ahead[0],
+                            ahead[1]);
                 } else {
-                    profit = Math.max(prices[index] + dp[index+1][1],
-                             dp[index+1][0]);
+                    profit = Math.max(prices[index] + ahead[1],
+                             ahead[0]);
                 }
 
-                dp[index][canBuy] = profit;
+                curr[canBuy]=profit;
 
             }
+            System.arraycopy(curr,0,ahead,0,2);
         }
 
-        return dp[0][1];
+        return ahead[1];
 
         // for(int[] arr:dp){
         // Arrays.fill(arr,-1);
