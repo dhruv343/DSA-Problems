@@ -30,11 +30,11 @@ class Solution {
             }
         }
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j <= 1; j++) {
-                dp[i][j][0] = 0;
-            }
-        }
+        // for (int i = 0; i < n; i++) {
+        //     for (int j = 0; j <= 1; j++) {
+        //         dp[i][j][0] = 0;
+        //     }
+        // }
 
         for (int index = n - 1; index >= 0; index--) {
             for (int canBuy = 0; canBuy <= 1; canBuy++) {
