@@ -24,11 +24,11 @@ class Solution {
         int n = prices.length;
         int[][][] dp = new int[n + 1][2][3];
 
-        for (int i = 0; i <= 1; i++) {
-            for (int j = 0; j <= 2; j++) {
-                dp[n][i][j] = 0;
-            }
-        }
+        // for (int i = 0; i <= 1; i++) {
+        //     for (int j = 0; j <= 2; j++) {
+        //         dp[n][i][j] = 0;
+        //     }
+        // }
 
         // for (int i = 0; i < n; i++) {
         //     for (int j = 0; j <= 1; j++) {
