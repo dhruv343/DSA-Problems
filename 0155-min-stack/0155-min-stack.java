@@ -8,7 +8,7 @@ class MinStack {
     }
 
     public void push(int value) {
-        Long val = Long.valueOf(value);
+        Long val = (long)value;
         if (st.isEmpty()) {
             mini = val;
             st.push(val);
