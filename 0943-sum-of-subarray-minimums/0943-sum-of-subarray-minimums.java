@@ -1,45 +1,46 @@
 class Solution {
     public int sumSubarrayMins(int[] arr) {
-        Stack<Integer> s=new Stack<>();
-        int[] psl=new int[arr.length];
-        int[] nsl=new int[arr.length];
+        int n=arr.length;
+        int[] psl=new int[n];
+        int[] nsl=new int[n];
+        Stack<Integer> stack=new Stack<>();
 
         Arrays.fill(psl,-1);
-        Arrays.fill(nsl,arr.length);
+        Arrays.fill(nsl,n);
+
+        for(int i=0;i<n;i++){
+
+            while(!stack.isEmpty() && arr[i]<arr[stack.peek()]){
+               stack.pop();
+            }
+            psl[i]=stack.isEmpty()?-1:stack.peek();
+
+            stack.push(i);
+        }
+
+        stack.clear();
         
-        //finding psl for every element
-        for(int i=0;i<arr.length;i++){
-            while(!s.isEmpty() && arr[i]<arr[s.peek()]){
-            s.pop();
+        for(int i=0;i<n;i++){
+
+            while(!stack.isEmpty() && arr[i]<arr[stack.peek()]){
+               nsl[stack.pop()]=i;
             }
-            psl[i]=s.isEmpty()?-1:s.peek();
-            s.push(i);
-        }
-        s.clear();
-        //finding nsl for every element 
-        for(int i=0;i<arr.length;i++){
-            while(!s.empty() && arr[i]<arr[s.peek()]){
-            int ele=s.pop();
-            nsl[ele]=i;
-            }
-            s.push(i);
+            stack.push(i);
         }
 
-
-        long answer=0;
         int mod=(int)1e9+7;
+        long answer=0;
 
-        for(int i=0;i<arr.length;i++){
-            
-            long left=i-psl[i];
-            long right=nsl[i]-i;
-            
-            long contribution=(left*right)*arr[i];
-            
-            answer = (answer + contribution) % mod;
+        for(int i=0;i<n;i++){
+            long l=i-psl[i];
+            long r=nsl[i]-i;
 
+            long contribution=((l*r)*arr[i]);
+
+            answer=(answer+contribution)%mod;
         }
 
         return (int)answer;
+
     }
 }
