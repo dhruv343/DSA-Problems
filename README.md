@@ -37,6 +37,7 @@ A collection of LeetCode questions i did!
 | [0525-contiguous-array](https://github.com/dhruv343/DSA-Problems/tree/master/0525-contiguous-array) |
 | [0739-daily-temperatures](https://github.com/dhruv343/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0878-shifting-letters](https://github.com/dhruv343/DSA-Problems/tree/master/0878-shifting-letters) |
+| [0890-lemonade-change](https://github.com/dhruv343/DSA-Problems/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruv343/DSA-Problems/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/dhruv343/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions i did!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/dhruv343/DSA-Problems/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/dhruv343/DSA-Problems/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/dhruv343/DSA-Problems/tree/master/0890-lemonade-change) |
 ## Stack
 |  |
 | ------- |
