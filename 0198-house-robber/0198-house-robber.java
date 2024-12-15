@@ -22,21 +22,20 @@ class Solution {
         int[] dp = new int[n];
         
 
-        dp[0] = nums[0];
+        int prev=nums[0];
+        int prev1=0;
 
         for (int i = 1; i < n; i++) {
-            int pick = nums[i];
+            int pick = nums[i]+prev1;
             
-            if(i>1){
-                pick+=dp[i-2];
-            }
+            int notPick = prev;
 
-            int notPick = dp[i-1];
-
-            dp[i] = Math.max(pick, notPick);
+            int curr = Math.max(pick, notPick);
+            prev1=prev;
+            prev=curr;
         }
 
-        return dp[n-1];
+        return prev;
 
         // Arrays.fill(dp,-1);
         // return func(n-1,dp,nums);
