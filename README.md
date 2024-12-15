@@ -86,6 +86,7 @@ A collection of LeetCode questions i did!
 | ------- |
 | [0007-reverse-integer](https://github.com/dhruv343/DSA-Problems/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/dhruv343/DSA-Problems/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/dhruv343/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhruv343/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/dhruv343/DSA-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dhruv343/DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions i did!
 | [0062-unique-paths](https://github.com/dhruv343/DSA-Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/dhruv343/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/dhruv343/DSA-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/dhruv343/DSA-Problems/tree/master/0152-maximum-product-subarray) |
@@ -345,4 +347,8 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0494-target-sum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dhruv343/DSA-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
