@@ -24,6 +24,7 @@ A collection of LeetCode questions i did!
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhruv343/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/dhruv343/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruv343/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/dhruv343/DSA-Problems/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/dhruv343/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/dhruv343/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/dhruv343/DSA-Problems/tree/master/0322-coin-change) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions i did!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/dhruv343/DSA-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/dhruv343/DSA-Problems/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/dhruv343/DSA-Problems/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/dhruv343/DSA-Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0494-target-sum) |
