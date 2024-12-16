@@ -260,6 +260,7 @@ A collection of LeetCode questions i did!
 | [0226-invert-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/dhruv343/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0744-network-delay-time](https://github.com/dhruv343/DSA-Problems/tree/master/0744-network-delay-time) |
 | [0975-range-sum-of-bst](https://github.com/dhruv343/DSA-Problems/tree/master/0975-range-sum-of-bst) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions i did!
 | [0199-binary-tree-right-side-view](https://github.com/dhruv343/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/dhruv343/DSA-Problems/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/dhruv343/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/dhruv343/DSA-Problems/tree/master/0744-network-delay-time) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/dhruv343/DSA-Problems/tree/master/1073-number-of-enclaves) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions i did!
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/dhruv343/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/dhruv343/DSA-Problems/tree/master/1073-number-of-enclaves) |
 ## Matrix
 |  |
@@ -332,6 +335,7 @@ A collection of LeetCode questions i did!
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/dhruv343/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/dhruv343/DSA-Problems/tree/master/0744-network-delay-time) |
 ## Heap (Priority Queue)
 |  |
