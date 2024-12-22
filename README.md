@@ -109,6 +109,7 @@ A collection of LeetCode questions i did!
 | [0424-longest-repeating-character-replacement](https://github.com/dhruv343/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/dhruv343/DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/dhruv343/DSA-Problems/tree/master/0647-palindromic-substrings) |
+| [0812-rotate-string](https://github.com/dhruv343/DSA-Problems/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/dhruv343/DSA-Problems/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/dhruv343/DSA-Problems/tree/master/0878-shifting-letters) |
 | [1078-remove-outermost-parentheses](https://github.com/dhruv343/DSA-Problems/tree/master/1078-remove-outermost-parentheses) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/dhruv343/DSA-Problems/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
