@@ -94,6 +94,7 @@ A collection of LeetCode questions i did!
 | [0380-insert-delete-getrandom-o1](https://github.com/dhruv343/DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0523-continuous-subarray-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dhruv343/DSA-Problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [2032-largest-odd-number-in-string](https://github.com/dhruv343/DSA-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions i did!
 | [1250-longest-common-subsequence](https://github.com/dhruv343/DSA-Problems/tree/master/1250-longest-common-subsequence) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/dhruv343/DSA-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dhruv343/DSA-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2032-largest-odd-number-in-string](https://github.com/dhruv343/DSA-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions i did!
 | [0134-gas-station](https://github.com/dhruv343/DSA-Problems/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/dhruv343/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/dhruv343/DSA-Problems/tree/master/0890-lemonade-change) |
+| [2032-largest-odd-number-in-string](https://github.com/dhruv343/DSA-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
