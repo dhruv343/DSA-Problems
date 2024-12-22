@@ -72,6 +72,7 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhruv343/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/dhruv343/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/dhruv343/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/dhruv343/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dhruv343/DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/dhruv343/DSA-Problems/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/dhruv343/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/dhruv343/DSA-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dhruv343/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhruv343/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions i did!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhruv343/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/dhruv343/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/dhruv343/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/dhruv343/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/dhruv343/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/dhruv343/DSA-Problems/tree/master/0071-simplify-path) |
