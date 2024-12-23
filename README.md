@@ -106,6 +106,7 @@ A collection of LeetCode questions i did!
 | [0005-longest-palindromic-substring](https://github.com/dhruv343/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/dhruv343/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/dhruv343/DSA-Problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/dhruv343/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/dhruv343/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/dhruv343/DSA-Problems/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/dhruv343/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhruv343/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/dhruv343/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/dhruv343/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/dhruv343/DSA-Problems/tree/master/0055-jump-game) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions i did!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/dhruv343/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0494-target-sum) |
 ## Memoization
 |  |
