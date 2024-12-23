@@ -16,6 +16,7 @@ A collection of LeetCode questions i did!
 | [0055-jump-game](https://github.com/dhruv343/DSA-Problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/dhruv343/DSA-Problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/dhruv343/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dhruv343/DSA-Problems/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/dhruv343/DSA-Problems/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0494-target-sum) |
 ## Memoization
 |  |
@@ -390,4 +392,8 @@ A collection of LeetCode questions i did!
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/dhruv343/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/dhruv343/DSA-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/dhruv343/DSA-Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
