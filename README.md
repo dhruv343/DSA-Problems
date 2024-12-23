@@ -85,6 +85,7 @@ A collection of LeetCode questions i did!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dhruv343/DSA-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dhruv343/DSA-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/dhruv343/DSA-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions i did!
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/dhruv343/DSA-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/dhruv343/DSA-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruv343/DSA-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/dhruv343/DSA-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/dhruv343/DSA-Problems/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -384,4 +386,5 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/dhruv343/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/dhruv343/DSA-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
