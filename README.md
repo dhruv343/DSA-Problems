@@ -10,6 +10,7 @@ A collection of LeetCode questions i did!
 | [0015-3sum](https://github.com/dhruv343/DSA-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruv343/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dhruv343/DSA-Problems/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/dhruv343/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/dhruv343/DSA-Problems/tree/master/0053-maximum-subarray) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dhruv343/DSA-Problems/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/dhruv343/DSA-Problems/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0494-target-sum) |
 ## Memoization
