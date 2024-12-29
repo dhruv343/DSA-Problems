@@ -215,6 +215,7 @@ A collection of LeetCode questions i did!
 | [0152-maximum-product-subarray](https://github.com/dhruv343/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/dhruv343/DSA-Problems/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/dhruv343/DSA-Problems/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/dhruv343/DSA-Problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/dhruv343/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0494-target-sum) |
@@ -411,4 +412,5 @@ A collection of LeetCode questions i did!
 | ------- |
 | [0078-subsets](https://github.com/dhruv343/DSA-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0090-subsets-ii) |
+| [0338-counting-bits](https://github.com/dhruv343/DSA-Problems/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
