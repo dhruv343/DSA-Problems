@@ -28,6 +28,7 @@ A collection of LeetCode questions i did!
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhruv343/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/dhruv343/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruv343/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/dhruv343/DSA-Problems/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/dhruv343/DSA-Problems/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/dhruv343/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/dhruv343/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions i did!
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhruv343/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/dhruv343/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/dhruv343/DSA-Problems/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/dhruv343/DSA-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/dhruv343/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dhruv343/DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhruv343/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions i did!
 | [0015-3sum](https://github.com/dhruv343/DSA-Problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/dhruv343/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/dhruv343/DSA-Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/dhruv343/DSA-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/dhruv343/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/dhruv343/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/dhruv343/DSA-Problems/tree/master/0455-assign-cookies) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions i did!
 | ------- |
 | [0053-maximum-subarray](https://github.com/dhruv343/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/dhruv343/DSA-Problems/tree/master/0169-majority-element) |
 ## Iterator
 |  |
 | ------- |
@@ -396,6 +400,7 @@ A collection of LeetCode questions i did!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dhruv343/DSA-Problems/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/dhruv343/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/dhruv343/DSA-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Bit Manipulation
