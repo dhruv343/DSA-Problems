@@ -118,6 +118,7 @@ A collection of LeetCode questions i did!
 | [0151-reverse-words-in-a-string](https://github.com/dhruv343/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/dhruv343/DSA-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/dhruv343/DSA-Problems/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/dhruv343/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhruv343/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/dhruv343/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/dhruv343/DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions i did!
 | [0151-reverse-words-in-a-string](https://github.com/dhruv343/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruv343/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/dhruv343/DSA-Problems/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/dhruv343/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/dhruv343/DSA-Problems/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/dhruv343/DSA-Problems/tree/master/0647-palindromic-substrings) |
 | [0874-backspace-string-compare](https://github.com/dhruv343/DSA-Problems/tree/master/0874-backspace-string-compare) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions i did!
 | [0152-maximum-product-subarray](https://github.com/dhruv343/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/dhruv343/DSA-Problems/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/dhruv343/DSA-Problems/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/dhruv343/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/dhruv343/DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
