@@ -5,23 +5,22 @@ class Solution {
         int r=0;
         int n=nums.length;
         int zeroes=0;
-        int max=0;
+        int maxLen=0; 
 
         while(r<n){
+
             if(nums[r]==0){
                 zeroes++;
             }
             while(zeroes>k){
-            if(nums[l]==0){
-                zeroes--;
-            }
-            l++;
+                if(nums[l]==0) zeroes--;
+                l++;
             }
 
-            max=Math.max(max,r-l+1);
+            maxLen=Math.max(maxLen,r-l+1);
             r++;
         }
 
-        return max;
+        return maxLen;
     }
 }
