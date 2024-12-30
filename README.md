@@ -46,6 +46,7 @@ A collection of LeetCode questions i did!
 | [0518-coin-change-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/dhruv343/DSA-Problems/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/dhruv343/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/dhruv343/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0878-shifting-letters](https://github.com/dhruv343/DSA-Problems/tree/master/0878-shifting-letters) |
 | [0890-lemonade-change](https://github.com/dhruv343/DSA-Problems/tree/master/0890-lemonade-change) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions i did!
 | [0303-range-sum-query-immutable](https://github.com/dhruv343/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/dhruv343/DSA-Problems/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/dhruv343/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0878-shifting-letters](https://github.com/dhruv343/DSA-Problems/tree/master/0878-shifting-letters) |
 | [0966-binary-subarrays-with-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/dhruv343/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions i did!
 | [0523-continuous-subarray-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/dhruv343/DSA-Problems/tree/master/0525-contiguous-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/dhruv343/DSA-Problems/tree/master/0535-encode-and-decode-tinyurl) |
+| [0560-subarray-sum-equals-k](https://github.com/dhruv343/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dhruv343/DSA-Problems/tree/master/1370-count-number-of-nice-subarrays) |
