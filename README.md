@@ -37,6 +37,7 @@ A collection of LeetCode questions i did!
 | [0283-move-zeroes](https://github.com/dhruv343/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/dhruv343/DSA-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/dhruv343/DSA-Problems/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/dhruv343/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dhruv343/DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/dhruv343/DSA-Problems/tree/master/0455-assign-cookies) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions i did!
 | [0169-majority-element](https://github.com/dhruv343/DSA-Problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/dhruv343/DSA-Problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/dhruv343/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/dhruv343/DSA-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhruv343/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dhruv343/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions i did!
 | [0088-merge-sorted-array](https://github.com/dhruv343/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/dhruv343/DSA-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/dhruv343/DSA-Problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/dhruv343/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/dhruv343/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/dhruv343/DSA-Problems/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions i did!
 | [0053-maximum-subarray](https://github.com/dhruv343/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/dhruv343/DSA-Problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/dhruv343/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Iterator
 |  |
 | ------- |
@@ -403,6 +407,7 @@ A collection of LeetCode questions i did!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/dhruv343/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/dhruv343/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/dhruv343/DSA-Problems/tree/master/0744-network-delay-time) |
 ## Shortest Path
@@ -429,11 +434,13 @@ A collection of LeetCode questions i did!
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/dhruv343/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/dhruv343/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/dhruv343/DSA-Problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/dhruv343/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/dhruv343/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/dhruv343/DSA-Problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Bit Manipulation
@@ -443,4 +450,8 @@ A collection of LeetCode questions i did!
 | [0090-subsets-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0260-single-number-iii](https://github.com/dhruv343/DSA-Problems/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/dhruv343/DSA-Problems/tree/master/0338-counting-bits) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/dhruv343/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
