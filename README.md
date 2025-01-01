@@ -47,6 +47,7 @@ A collection of LeetCode questions i did!
 | [0523-continuous-subarray-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/dhruv343/DSA-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/dhruv343/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/dhruv343/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/dhruv343/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0878-shifting-letters](https://github.com/dhruv343/DSA-Problems/tree/master/0878-shifting-letters) |
 | [0890-lemonade-change](https://github.com/dhruv343/DSA-Problems/tree/master/0890-lemonade-change) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions i did!
 | [0232-implement-queue-using-stacks](https://github.com/dhruv343/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/dhruv343/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/dhruv343/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/dhruv343/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/dhruv343/DSA-Problems/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/dhruv343/DSA-Problems/tree/master/0937-online-stock-span) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions i did!
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/dhruv343/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/dhruv343/DSA-Problems/tree/master/0874-backspace-string-compare) |
 ## Monotonic Stack
 |  |
