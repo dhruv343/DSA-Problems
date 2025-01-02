@@ -10,6 +10,7 @@ A collection of LeetCode questions i did!
 | [0015-3sum](https://github.com/dhruv343/DSA-Problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruv343/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dhruv343/DSA-Problems/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/dhruv343/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/dhruv343/DSA-Problems/tree/master/0042-trapping-rain-water) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions i did!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhruv343/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/dhruv343/DSA-Problems/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/dhruv343/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/dhruv343/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/dhruv343/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/dhruv343/DSA-Problems/tree/master/0169-majority-element) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions i did!
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/dhruv343/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0064-minimum-path-sum) |
 | [1036-rotting-oranges](https://github.com/dhruv343/DSA-Problems/tree/master/1036-rotting-oranges) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dhruv343/DSA-Problems/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/dhruv343/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/dhruv343/DSA-Problems/tree/master/0078-subsets) |
