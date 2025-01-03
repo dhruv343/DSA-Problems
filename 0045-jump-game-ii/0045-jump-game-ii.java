@@ -1,49 +1,30 @@
 class Solution {
 
-    class Pair{
-        Boolean takesAtLast;
-        int minJumps;
+    public int func(int ind,int[] nums,int[] dp){
 
-        Pair(Boolean bool,int minJ){
-            this.takesAtLast=bool;
-            this.minJumps=minJ;
-        }
-    }
+       
+      
+      int n=nums.length;
 
-    public Pair f(int[] nums,int ind,Pair[] dp){
-    
-    if(ind==nums.length-1){
-        return new Pair(true,0);
-    }
-    if(ind>nums.length-1 || nums[ind]==0){
-        return new Pair(false,-1);
-    }
-    
-    if(dp[ind].takesAtLast!=null && dp[ind].minJumps!=-1){
-        return dp[ind];
-    }
+      if(ind>=n-1) return 0;
 
-    int min=Integer.MAX_VALUE;
-    Boolean takesAtLast=false;
+      if(dp[ind]!=-1) return dp[ind];
 
-    for(int i=1;i<=nums[ind];i++){
-        Pair ele=f(nums,ind+i,dp);
-        if(ele.takesAtLast){
-            min=Integer.min(min,ele.minJumps);
-            takesAtLast=true;
-        }
+      int mini=Integer.MAX_VALUE;
+
+      for(int i=1;i<=nums[ind];i++){
+           int jumps=func(ind+i,nums,dp);
+           if(jumps!=Integer.MAX_VALUE){
+           mini=Math.min(mini,jumps+1);
+           }
+      }
+
+      return dp[ind]=mini;
     }
-    
-    return dp[ind]= new Pair(takesAtLast,min+1);
-
-    }
-
     public int jump(int[] nums) {
         
-        Pair[] dp=new Pair[nums.length];
-        for(int i=0;i<nums.length;i++){
-            dp[i]=new Pair(null,-1);
-        }
-        return f(nums,0,dp).minJumps;
+        int[] dp=new int[nums.length];
+        Arrays.fill(dp,-1);
+        return func(0,nums,dp);
     }
 }
