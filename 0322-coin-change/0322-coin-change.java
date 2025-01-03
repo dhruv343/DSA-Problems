@@ -1,28 +1,26 @@
 class Solution {
 
     int function(int index, int amount, int[] coins, int[][] dp) {
+        if(index==0){
+            if(amount%coins[0]==0){
+                return amount/coins[0];
+            }
+            else return (int) 1e9;
+        }
+        if(dp[index][amount]!=-1) return dp[index][amount];
+        //not take
+        int notTake=function(index-1,amount,coins,dp);
+        
+        int take=Integer.MAX_VALUE;
 
-        if (index == 0) {
-            if (amount % coins[index] == 0) {
-                return dp[index][amount] = amount / coins[index];
-            } else
-                return dp[index][amount] = (int) 1e9;
+        if(coins[index]<=amount){
+            take=1+function(index,amount-coins[index],coins,dp);
         }
 
-        if (dp[index][amount] != -1)
-            return dp[index][amount];
+        dp[index][amount]=Math.min(take,notTake);
 
-        // not take
-        int notTake = 0 + function(index - 1, amount, coins, dp);
+        return dp[index][amount];
 
-        // TAKE
-        int take = Integer.MAX_VALUE;
-
-        if (coins[index] <= amount) {
-            take = 1 + function(index, amount - coins[index], coins, dp);
-        }
-
-        return dp[index][amount] = Math.min(take, notTake);
 
     }
 
