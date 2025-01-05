@@ -21,6 +21,7 @@ A collection of LeetCode questions i did!
 | [0055-jump-game](https://github.com/dhruv343/DSA-Problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/dhruv343/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/dhruv343/DSA-Problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/dhruv343/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0090-subsets-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions i did!
 | [0013-roman-to-integer](https://github.com/dhruv343/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/dhruv343/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/dhruv343/DSA-Problems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/dhruv343/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/dhruv343/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/dhruv343/DSA-Problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions i did!
 | [0048-rotate-image](https://github.com/dhruv343/DSA-Problems/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/dhruv343/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [1036-rotting-oranges](https://github.com/dhruv343/DSA-Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/dhruv343/DSA-Problems/tree/master/1073-number-of-enclaves) |
 ## Graph
