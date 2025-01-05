@@ -114,6 +114,7 @@ A collection of LeetCode questions i did!
 | ------- |
 | [0007-reverse-integer](https://github.com/dhruv343/DSA-Problems/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/dhruv343/DSA-Problems/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/dhruv343/DSA-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/dhruv343/DSA-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dhruv343/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dhruv343/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -458,4 +459,8 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dhruv343/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/dhruv343/DSA-Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
