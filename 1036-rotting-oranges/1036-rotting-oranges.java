@@ -1,39 +1,40 @@
-class Solution {
+class Solution { 
+
     class Pair{
         int r;
         int c;
         int t;
 
         Pair(int r,int c,int t){
-            this.r=r;
-            this.c=c;
-            this.t=t;
+          this.r=r;
+          this.c=c;
+          this.t=t;
         }
     }
     public int orangesRotting(int[][] grid) {
         
         int nRows=grid.length;
         int nCols=grid[0].length;
-        int[][] visited=new int[nRows][nCols];
         Queue<Pair> queue=new LinkedList<>();
-        int cntFresh=0;
-        int time=0;
+        boolean[][] visited=new boolean[nRows][nCols];
+        int fresh=0;
 
         for(int i=0;i<nRows;i++){
             for(int j=0;j<nCols;j++){
                 if(grid[i][j]==2){
+                    visited[i][j]=true;
                     queue.add(new Pair(i,j,0));
-                    visited[i][j]=1;
                 }
-                else if(grid[i][j]==1){
-                    cntFresh++;
+                if(grid[i][j]==1){
+                    fresh++;
                 }
             }
         }
-        
-        int count=0;
+
         int[] rows={-1,0,1,0};
         int[] cols={0,1,0,-1};
+        int countFresh=0;
+        int time=0;
 
         while(!queue.isEmpty()){
             int r=queue.peek().r;
@@ -41,24 +42,26 @@ class Solution {
             int t=queue.peek().t;
             queue.poll();
 
-            time=Math.max(t,time);
+            time=Math.max(time,t);
 
             for(int i=0;i<4;i++){
                 int row=r+rows[i];
                 int col=c+cols[i];
 
-                while(row>=0 && row<nRows && col>=0 && col<nCols && visited[row][col]==0 && grid[row][col]==1){
-                    visited[row][col]=1;
-                    count++;
+                if(row>=0 && row<nRows && col>=0 && col<nCols && (visited[row][col]==false) && grid[row][col]==1){
+                    countFresh++;
+                    visited[row][col]=true;
                     queue.add(new Pair(row,col,t+1));
                 }
             }
         }
 
-        if(cntFresh!=count){
+        if(countFresh!=fresh){
             return -1;
         }
 
         return time;
+
+
     }
 }
