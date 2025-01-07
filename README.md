@@ -335,6 +335,7 @@ A collection of LeetCode questions i did!
 | [0975-range-sum-of-bst](https://github.com/dhruv343/DSA-Problems/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/dhruv343/DSA-Problems/tree/master/1073-number-of-enclaves) |
+| [2121-find-if-path-exists-in-graph](https://github.com/dhruv343/DSA-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -368,6 +369,7 @@ A collection of LeetCode questions i did!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/dhruv343/DSA-Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/dhruv343/DSA-Problems/tree/master/1073-number-of-enclaves) |
+| [2121-find-if-path-exists-in-graph](https://github.com/dhruv343/DSA-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## String Matching
 |  |
 | ------- |
@@ -401,6 +403,7 @@ A collection of LeetCode questions i did!
 | [0128-longest-consecutive-sequence](https://github.com/dhruv343/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/dhruv343/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/dhruv343/DSA-Problems/tree/master/1073-number-of-enclaves) |
+| [2121-find-if-path-exists-in-graph](https://github.com/dhruv343/DSA-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -416,6 +419,7 @@ A collection of LeetCode questions i did!
 | ------- |
 | [0547-number-of-provinces](https://github.com/dhruv343/DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/dhruv343/DSA-Problems/tree/master/0744-network-delay-time) |
+| [2121-find-if-path-exists-in-graph](https://github.com/dhruv343/DSA-Problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
