@@ -24,6 +24,7 @@ A collection of LeetCode questions i did!
 | [0064-minimum-path-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dhruv343/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/dhruv343/DSA-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/dhruv343/DSA-Problems/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/dhruv343/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions i did!
 | [0022-generate-parentheses](https://github.com/dhruv343/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/dhruv343/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/dhruv343/DSA-Problems/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/dhruv343/DSA-Problems/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/dhruv343/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/dhruv343/DSA-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/dhruv343/DSA-Problems/tree/master/0242-valid-anagram) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions i did!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/dhruv343/DSA-Problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0110-balanced-binary-tree) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions i did!
 | [0063-unique-paths-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/dhruv343/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/dhruv343/DSA-Problems/tree/master/0079-word-search) |
 | [1036-rotting-oranges](https://github.com/dhruv343/DSA-Problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/dhruv343/DSA-Problems/tree/master/1073-number-of-enclaves) |
 ## Graph
@@ -442,6 +446,7 @@ A collection of LeetCode questions i did!
 | [0039-combination-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/dhruv343/DSA-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/dhruv343/DSA-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/dhruv343/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0494-target-sum) |
 ## Memoization
