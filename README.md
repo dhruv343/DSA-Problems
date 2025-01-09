@@ -304,6 +304,7 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions i did!
 | ------- |
 | [0079-word-search](https://github.com/dhruv343/DSA-Problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions i did!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions i did!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/dhruv343/DSA-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dhruv343/DSA-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
