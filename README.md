@@ -61,6 +61,7 @@ A collection of LeetCode questions i did!
 | [0966-binary-subarrays-with-sum](https://github.com/dhruv343/DSA-Problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/dhruv343/DSA-Problems/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/dhruv343/DSA-Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/dhruv343/DSA-Problems/tree/master/1073-number-of-enclaves) |
 | [1370-count-number-of-nice-subarrays](https://github.com/dhruv343/DSA-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dhruv343/DSA-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions i did!
 | [0874-backspace-string-compare](https://github.com/dhruv343/DSA-Problems/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/dhruv343/DSA-Problems/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruv343/DSA-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/dhruv343/DSA-Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/dhruv343/DSA-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/dhruv343/DSA-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions i did!
 | [0739-daily-temperatures](https://github.com/dhruv343/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/dhruv343/DSA-Problems/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/dhruv343/DSA-Problems/tree/master/0943-sum-of-subarray-minimums) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Data Stream
 |  |
 | ------- |
@@ -322,6 +325,7 @@ A collection of LeetCode questions i did!
 | [0572-subtree-of-another-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/dhruv343/DSA-Problems/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -366,6 +370,7 @@ A collection of LeetCode questions i did!
 | [0572-subtree-of-another-tree](https://github.com/dhruv343/DSA-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0975-range-sum-of-bst](https://github.com/dhruv343/DSA-Problems/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dhruv343/DSA-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -400,6 +405,7 @@ A collection of LeetCode questions i did!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dhruv343/DSA-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/dhruv343/DSA-Problems/tree/master/0450-delete-node-in-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/dhruv343/DSA-Problems/tree/master/0975-range-sum-of-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/dhruv343/DSA-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
